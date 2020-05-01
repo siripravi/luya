@@ -1,6 +1,6 @@
 # Admin CSS Styles
 
-All [Bootstrap 4](https://getbootstrap.com/) css styles and classes are available in the LUYA ADMIN UI. On top of thi,s LUYA provides generic css classes for buttons with predefined icons and colors.
+All [Bootstrap 4](https://getbootstrap.com/) css styles and classes are available in the LUYA ADMIN UI. On top of this LUYA provides generic css classes for buttons with predefined icons and colors.
 
 ## Buttons
 
